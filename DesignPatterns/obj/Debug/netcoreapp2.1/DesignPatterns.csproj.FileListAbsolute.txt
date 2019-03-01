@@ -1,0 +1,11 @@
+D:\workspace\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp2.1\DesignPatterns.deps.json
+D:\workspace\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp2.1\DesignPatterns.runtimeconfig.json
+D:\workspace\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp2.1\DesignPatterns.runtimeconfig.dev.json
+D:\workspace\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp2.1\DesignPatterns.dll
+D:\workspace\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp2.1\DesignPatterns.pdb
+D:\workspace\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp2.1\DesignPatterns.csprojAssemblyReference.cache
+D:\workspace\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp2.1\DesignPatterns.csproj.CoreCompileInputs.cache
+D:\workspace\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp2.1\DesignPatterns.AssemblyInfoInputs.cache
+D:\workspace\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp2.1\DesignPatterns.AssemblyInfo.cs
+D:\workspace\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp2.1\DesignPatterns.dll
+D:\workspace\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp2.1\DesignPatterns.pdb
