@@ -29,7 +29,8 @@ namespace DesignPatterns
 
         public static void Builder()
         {
-            HTMLBuilderDemo.Exec();
+            //HTMLBuilderDemo.Exec();
+            FluentBuilderInheritanceWithRecursiveGenerics.Exec();
         }
     }
 }
