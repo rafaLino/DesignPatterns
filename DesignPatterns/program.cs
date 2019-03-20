@@ -30,7 +30,8 @@ namespace DesignPatterns
         public static void Builder()
         {
             //HTMLBuilderDemo.Exec();
-            FluentBuilderInheritanceWithRecursiveGenerics.Exec();
+            //FluentBuilderInheritanceWithRecursiveGenerics.Exec();
+            FacetedBuilder.exec();
         }
     }
 }
