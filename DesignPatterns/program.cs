@@ -1,4 +1,5 @@
 ﻿using DesignPatterns.BUILDER;
+using DesignPatterns.EXERCISES;
 using DesignPatterns.SOLID;
 
 namespace DesignPatterns
@@ -9,7 +10,10 @@ namespace DesignPatterns
         static void Main(string[] args)
         {
             //Solid();
+
             Builder();
+
+            //Exercises();
         }
 
 
@@ -32,6 +36,11 @@ namespace DesignPatterns
             //HTMLBuilderDemo.Exec();
             //FluentBuilderInheritanceWithRecursiveGenerics.Exec();
             FacetedBuilder.exec();
+        }
+
+        public static void Exercises()
+        {
+            Exercises01.Exec();
         }
     }
 }
