@@ -1,4 +1,5 @@
-﻿using DesignPatterns.BUILDER;
+﻿using DesignPatterns.FACTORY;
+using DesignPatterns.BUILDER;
 using DesignPatterns.EXERCISES;
 using DesignPatterns.SOLID;
 
@@ -11,9 +12,13 @@ namespace DesignPatterns
         {
             //Solid();
 
-            Builder();
+            //Builder();
 
-            //Exercises();
+            //Factory();
+
+
+
+            Exercises();
         }
 
 
@@ -33,14 +38,21 @@ namespace DesignPatterns
 
         public static void Builder()
         {
-            //HTMLBuilderDemo.Exec();
-            //FluentBuilderInheritanceWithRecursiveGenerics.Exec();
+            HTMLBuilderDemo.Exec();
+            FluentBuilderInheritanceWithRecursiveGenerics.Exec();
             FacetedBuilder.exec();
+        }
+
+        public static void Factory()
+        {
+           // FactoryMethod.Exec();
+            AbstractFactory.Exec();
         }
 
         public static void Exercises()
         {
-            Exercises01.Exec();
+            //Exercises01.Exec();
+            Exercises02.Exec();
         }
     }
 }
