@@ -2,6 +2,7 @@
 using DesignPatterns.BUILDER;
 using DesignPatterns.EXERCISES;
 using DesignPatterns.SOLID;
+using DesignPatterns.PROTOTYPE;
 
 namespace DesignPatterns
 {
@@ -16,9 +17,9 @@ namespace DesignPatterns
 
             //Factory();
 
+            Prototype();
 
-
-            Exercises();
+            //Exercises();
         }
 
 
@@ -45,13 +46,18 @@ namespace DesignPatterns
 
         public static void Factory()
         {
-           // FactoryMethod.Exec();
+            FactoryMethod.Exec();
             AbstractFactory.Exec();
+        }
+
+        public static void Prototype()
+        {
+            CopyConstructor.Exec();
         }
 
         public static void Exercises()
         {
-            //Exercises01.Exec();
+            Exercises01.Exec();
             Exercises02.Exec();
         }
     }
